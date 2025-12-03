@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TrabajoMarketPlace" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- Customize your theme here. -->
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- Darker variant of the primary branding color. -->
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <!-- Primary text color for light themes. -->
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <!-- Secondary branding color for the app. -->
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <!-- Darker variant of the secondary branding color. -->
+        <item name="colorSecondaryVariant">@color/colorSecondaryVariant</item>
+        <!-- Primary text color for dark themes. -->
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <!-- Background color for the app. -->
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <!-- Color of surfaces, such as cards and dialogs. -->
+        <item name="colorSurface">@color/colorSurface</item>
+        <!-- Text color for elements displayed on the background. -->
+        <item name="colorOnBackground">@color/colorOnBackground</item>
+        <!-- Text color for elements displayed on surfaces. -->
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+
+        <!-- Status and navigation bar colors -->
+        <item name="android:statusBarColor">@color/colorStatusBar</item>
+        <item name="android:navigationBarColor">@color/colorNavigationBar</item>
+    </style>
+
+    <style name="Theme.TrabajoMarketPlace" parent="Base.Theme.TrabajoMarketPlace" />
+
+
+
+</resources>

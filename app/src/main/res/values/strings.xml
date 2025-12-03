@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">trabajoMarketPlace</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="categorias_array">
+        <item>Vehículos</item>
+        <item>Inmuebles</item>
+        <item>Electrónica</item>
+        <item>Ropa y accesorios</item>
+        <item>Hogar y jardín</item>
+        <item>Ocio y entretenimiento</item>
+        <item>Deportes y aire libre</item>
+        <item>Artículos para bebés y niños</item>
+        <item>Salud y belleza</item>
+        <item>Negocios e industria</item>
+        <item>Mascotas</item>
+        <item>Servicios</item>
+        <item>Trabajo</item>
+        <item>Clases y cursos</item>
+        <item>Otros</item>
+    </string-array>
+
+
+</resources>
