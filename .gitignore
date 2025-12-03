@@ -1,0 +1,48 @@
+#.gitignore para proyectos Android/Gradle
+# See https://github.com/github/gitignore/blob/main/Android.gitignore for reference
+
+# Gradle
+.gradle/
+/build/
+/app/build/
+
+# Local configuration
+local.properties
+.idea/
+*.iml
+
+# Kotlin/Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Android Studio captures
+/captures/
+
+# NDK
+.externalNativeBuild/
+.cxx/
+
+# Generated files
+**/generated/
+
+# Misc
+.DS_Store
+*.log
+/*.keystore
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
